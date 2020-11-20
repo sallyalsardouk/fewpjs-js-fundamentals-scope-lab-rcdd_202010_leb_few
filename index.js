@@ -3,7 +3,7 @@ let myanimal = ""
 function myAnimal(animal) {
   return myanimal
 }
-let youranimal=""
+let youranimal="cat"
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
