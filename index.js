@@ -1,4 +1,4 @@
-let myanimal = ""
+let myanimal = "dog"
 
 function myAnimal(animal) {
   return myanimal
