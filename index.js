@@ -11,7 +11,7 @@ function yourAnimal() {
   let animal=""
   return youranimal
 }
- two = 2
+ let two = 2
 function add2(n) {
   return n + two
 
